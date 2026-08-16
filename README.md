@@ -1,4 +1,4 @@
-# ESP32_S3_Nat_Extander/ESP32
+# ESP32_S3_Nat_Extander
 
 A high-performance ESP32-S3 Wi-Fi NAT extender designed for local network sharing, fast Wi-Fi recovery, persistent configuration and long-running operation.
 
